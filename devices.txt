@@ -1,0 +1,8 @@
+ElectricEnergyMeter Merkuriy230
+ElectricEnergyMeter NevaMT314
+ElectricEnergyMeter EnergomeraCE308
+DisctretSignalInputUnit ReallabNL16HV
+DisctretSignalInputUnit PriborelectroPRE-16HV
+DisctretSignalInputUnit EnergoserviceENMV-1-24
+HeatingControlUnit OumanS203
+HeatingControlUnit OvenS203
